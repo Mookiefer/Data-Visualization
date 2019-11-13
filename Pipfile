@@ -6,8 +6,8 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-matplotlib = "==3.2.0rc1"
-pygal = "==2.4.0"
+matplotlib = "*"
+pygal = "*"
 
 [requires]
 python_version = "3.7"
